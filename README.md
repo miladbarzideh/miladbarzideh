@@ -7,8 +7,8 @@ I'm milad. Welcome to my Github profile.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** Full-Stack Development :fire: | Open-Source :thumbsup:
--  **Languages :** Java, Python, Typescript
+-  **Learning :** Software architecture :fire:
+-  **Languages :** Java, Python
 -  **Fact :** Writing testable and maintainable code is an essential thing :star: 
 -  **Hobbies :** I :heart: 🏃
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

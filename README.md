@@ -3,10 +3,6 @@
 
 I'm milad. Welcome to my Github profile.
 
-- 🔭 I’m currently working on something cool :wink:
-- 📫 How to reach me: [@milad-barzideh](https://www.linkedin.com/in/milad-barzideh-b2870868/)
-- ⚡ Fun fact: I :heart: 🏃
-
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milad-barzideh-b2870868/)](https://www.linkedin.com/in/milad-barzideh-b2870868/)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About

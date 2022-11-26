@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **software architecture 🔥**
 
-- 📝 I regularly write articles on [https://mimbe.vercel.app/blog](https://mimbe.vercel.app/blog)
+- 📝 I regularly write articles on [https://miladbarzideh.com/blog](https://miladbarzideh.com/blog)
 
 - 💬 Ask me about **java, spring boot, data analysis**
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milad</h1>
 <h3 align="center">Welcome to my Github profile</h3>
 
-- 🌱 I’m currently learning **software architecture 🔥**
+- 🌱 I’m currently learning **Go 🔥**
 
 - 📝 I regularly write articles on [https://miladbarzideh.com/blog](https://miladbarzideh.com/blog)
 
